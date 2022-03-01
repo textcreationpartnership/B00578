@@ -1,0 +1,2760 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yny lhyvyr hwnn y traethir. Gwyðor kymraeg. Kalandyr. Ygredo, ney bynkeu yr ffyð gatholig. Y pader, ney weði yr aglwyð. Y deng air deðyf. Saith kinweð yr egglwys. Y kampey arber[--]wy ar Gwyðieu gochbladwy ae keingeu.</title>
+            <author>Price, John, Sir, 1502?-1573.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1546</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00578</idno>
+            <idno type="STC">STC 20310</idno>
+            <idno type="STC">ESTC S94784</idno>
+            <idno type="EEBO-CITATION">56572732</idno>
+            <idno type="OCLC">ocm 56572732</idno>
+            <idno type="VID">181011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2153:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yny lhyvyr hwnn y traethir. Gwyðor kymraeg. Kalandyr. Ygredo, ney bynkeu yr ffyð gatholig. Y pader, ney weði yr aglwyð. Y deng air deðyf. Saith kinweð yr egglwys. Y kampey arber[--]wy ar Gwyðieu gochbladwy ae keingeu.</title>
+                  <author>Price, John, Sir, 1502?-1573.</author>
+               </titleStmt>
+               <extent>[33] p.   </extent>
+               <publicationStmt>
+                  <publisher>E. Whitchurch],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>M.D.XLVI. [1546].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer suggested by STC (2nd ed.).</note>
+                  <note>Title within ornamental border (McK. &amp; Ferg. 60β).</note>
+                  <note>Imperfect: t.p. damaged, with loss of print.</note>
+                  <note>Signatures: A-B⁸ (? irregularly marked, t.p. unmarked).</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms --  Welsh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181011:1"/>
+            <pb facs="tcp:181011:1"/>
+            <p>
+               <hi>Yny lhyvyr</hi> hwnn y traethir.</p>
+            <list>
+               <item>Gwyðor kymraeg.</item>
+               <item>Kalandyr.</item>
+               <item>Y gredo, ney vynkeu yr ffyð gatholig.</item>
+               <item>Y pader, ney weði yr arglwyð.</item>
+               <item>Y deng air deðyf.</item>
+               <item>Saith Kinweð yr egglwys.</item>
+               <item>Y kampey arveradwy ar Gwyðieu gochlad<g ref="char:EOLhyphen"/>wy ae keingeu.</item>
+            </list>
+            <p>
+               <hi>M.D.XLVI.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="calendar">
+            <div type="month">
+               <pb facs="tcp:181011:2"/>
+               <pb facs="tcp:181011:2"/>
+               <head>Ianuarius. Mis Ionawr. y ſy o.xxxi. o ðyðieu.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>H</cell>
+                        <cell>Duw calan.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>Gwyl yſtwylh.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>Yr haul yn y dyfwr.</cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>e</cell>
+                        <cell>Gwyl Lwcharn.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>f</cell>
+                        <cell>Gwyl Elen ac erviu. Gwyl hilari.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>Kalan chwefrawr.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>S. Vinſent.</cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>b</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>Gwyl bawl. pan droes yr iawn.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell>Gwyl ewryd ſanct.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>YN y mis ymma torr dy goed defnyð ag ny holhtan. Diwreiða y koedach ar dyryſſi oth wairglod ag ny thyuan eilwaith. A gwna hynn yn enwedig o ðyuewn pedwar nywarnod y ðiwed y lheyad. Pal dy arð a theila h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a thomm, ſymyd dy wenyn. Dinoetha wreiðeu dy goed ffrwyth, yn enwedig or rhai y vo hen ac heb ðwyn ffrwyth. Gwna ðefnyðyon dy aradyr. vrynara dy dir y wenith ath ryg, torr dy wndwn y geyrch val y bo meðal.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:3"/>
+               <head>Februarius. Mis chwefrawr.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>d</cell>
+                        <cell>Gwyl ſainffred. Meuilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>G. vair y kannwylheu.</cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>f</cell>
+                        <cell>G. Blas verthyr.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>G. Agath.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>b</cell>
+                        <cell>G. Giwa.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>c</cell>
+                        <cell>G. Deilaw.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>Yr haul yn y pyſc.</cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>G. Dyſſor.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>c</cell>
+                        <cell>G. Walentin</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>e</cell>
+                        <cell>Mevilla</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>G. Mathias.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>H.</cell>
+                        <cell>Dyvaeloc.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis hwnn tynn y mwſſwng o ðyar dy goed ffrwyth torr y keingyey dyfyrlhyd, dod goed byw, a choed rhos ar vath hynny, ſcathra a phlyg dy berth yn ni<g ref="char:EOLhyphen"/>weð y lheuad, dod gyffion koed ievaink a cheingien, a chlwmmey yn y lhawnlhoer. Arð dy wndwn. a haya dy ffa ath bys, ath geyrch mewn tir ſych yn y newyð loer. mewn tir gwlyb wedy yr lhawn lhoer ney o vewn pedwar niwar nod y nailh ae kynt ae gwedy.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:3"/>
+               <head>Marcius. Mis mawrth.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>d</cell>
+                        <cell>G. ðewi Eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>g. Shad eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>H</cell>
+                        <cell>g. Gregori eſcob. Yr haul yn y maharen, yr am-Ser y mae gogylywcn nos a dyð.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>G. Badric.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>g</cell>
+                        <cell>G. Edward verthyr.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>H</cell>
+                        <cell>g. Gynbryd.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>g. Sainct gudbert.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>c</cell>
+                        <cell>g. ſainct benet.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>f</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>G. va<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t y gyhydeð.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis fuawrth haya. ffa, bys a cheyrch yn echreu ye mis. Impa a phlanna goed ffrwyth, ac yn enwedig yn niweð y mis, dod Sitruls gwrds a Saeds, kyðia wreiðieu y koed y ðinoetheſt or vlaen a thomm a phrið ne<g ref="char:EOLhyphen"/>wyð. hevyd arð dy dirbarlis, a dwg dom yr maes yn en<g ref="char:EOLhyphen"/>wedic yn niweð y lheuad ac ny ſycha ymmaith.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:4"/>
+               <head>Aprilis: Mis Ebrilh.o.xxx.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell>G. Ambros.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>d</cell>
+                        <cell>G. Dervel.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>G. Lywelyn.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>y</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>c</cell>
+                        <cell>Yr haul yn y tarw.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>G. Siorys.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>v</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>c</cell>
+                        <cell>G. Vach.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis hwun haya dy halð mewn tir kryf, haya dy gw<g ref="char:EOLhyphen"/>arch a lhin a rhann o had garðeu val wniwn, kennin, perſli, ar vath hynny.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:4"/>
+               <head>Maius: Mis Mai. xxxi.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>G. Philip a Iago.</cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>d</cell>
+                        <cell>Gwyl y groc.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>g</cell>
+                        <cell>g. ievau yn elow</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>g. vael a ſulien.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>g</cell>
+                        <cell>Yr haul yn y gevylhon.</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>f</cell>
+                        <cell>g. ſaint Dunſtan.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>b</cell>
+                        <cell>g. Golhen.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>e</cell>
+                        <cell>g. ſaint Denis.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>g. ſaint Awain.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>g</cell>
+                        <cell>g. ſaint Byd. g. velangelh.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>b</cell>
+                        <cell>g. Erbin.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>MIs Mai haya dy haið yn echreu yr mis, a had ke<g ref="char:cmbAbbrStroke">̄</g>nin wyuwn, pwrſlau, Coliander ar vath hynny. Arð yr ar kyntaf oth dir er gwenith a rhyg.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:5"/>
+               <head>Iunius. Mis mehenin. xxx.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>v</cell>
+                        <cell>e</cell>
+                        <cell>g. degla.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>g</cell>
+                        <cell>g. Goven.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>g. Bonifas eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>H</cell>
+                        <cell>g. Barnabas eboſtol.</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>d</cell>
+                        <cell>Yr haul yn y Cran<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>g. Giric.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>b</cell>
+                        <cell>g. ſainct lednerth.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>e</cell>
+                        <cell>g. Wenvrewi. g. Alban verthyr.</cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>f</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>g. Ievan vedydiwc, pan aned.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>d</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>G. Beder a phaul eboſtolion.</cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis hwnn dwg domm a thail yth wenithdir ac yth rhygdir, dwg dy goed adref dod gennin yn niweð y mis, a haya had lhyſſeu tener, i had weir ac weir glo<g ref="char:EOLhyphen"/>dyð y vo mewn tier iſſel gerlhaw dyfwr.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:5"/>
+               <head>Iulius. Mis Gorffenna.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>v</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>g. Vair ac Eliſabeth.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>b</cell>
+                        <cell>g.beblic.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>c</cell>
+                        <cell>g. martin eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>d</cell>
+                        <cell>g. ðoewan.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>g. Armon.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>f</cell>
+                        <cell>g. Elyw a chynlhaw.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>g</cell>
+                        <cell>Yr haul yn y lhew.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>e</cell>
+                        <cell>g. ſainct margaret.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>g</cell>
+                        <cell>g. Vair vablen.</cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>c</cell>
+                        <cell>g. Iago eboſtol</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>g. Anna vam vair.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>g. Armon yn ial.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis hyn lhað weir yn y gweirglodyð ychel a thann vwya oth weirdir er mwyn y tywyð teg y ſy debig y vod yr amſer hwnn Ar ynghylch diweð y mis meda tann oth lavyr k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wnn.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:6"/>
+               <head>Auguſtus. Mis Awſt. xxxi.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>c</cell>
+                        <cell>g. beder eboſtol.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>g. Oſwalht vrenhin.</cell>
+                     </row>
+                     <row>
+                        <cell>xviii.</cell>
+                        <cell>H</cell>
+                        <cell>g. Ieſſu.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>b</cell>
+                        <cell>g. enw yr Ieſſu.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>e</cell>
+                        <cell>g. Laurens verthyr:</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>Meuilia.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>c</cell>
+                        <cell>g. <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>air drychavael. Yr haul yn y vorwyn.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>d</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>e</cell>
+                        <cell>g. Bartholomew mehou<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>g. ſaint Awſtin eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>c</cell>
+                        <cell>g. Ievan eddiga.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis hwun, meda dy ryg ath wenith a dwg yth eſky<g ref="char:EOLhyphen"/>bor, ac ynghylch diweð y mis meda dy geyrch ac arð yr ar dywetha ar veder dy weuith ath rhyg.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:6"/>
+               <head>September<g ref="char:punc">▪</g> Mis medi. xxx.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>f</cell>
+                        <cell>g. Griſoſtom eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>g. Sulien.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>f</cell>
+                        <cell>g. Mair pan med.</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>e</cell>
+                        <cell>g. Y groe. hafan hydref.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>Yr haul yn y vantol.</cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>g</cell>
+                        <cell>g. Lambert.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>d</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>g. Matthew ebollol.</cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>g. Vwrog.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>b</cell>
+                        <cell>g. Veygan.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>f</cell>
+                        <cell>g. Mihangel Archangel.</cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>g</cell>
+                        <cell>g. Sierom offeiriad.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>YN y mis hwnn meda dy haið, pys a pha, ac yng hylch kenol y mis haya wenith a rhyg mewn tir kryf. dwg dail ar veder gwenith a rhyg, kannys vu venneid yr amſer hwnu y dal tair kynn y mis vwnn.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:7"/>
+               <head>October. Mis hydref.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>G. Silin a garmon.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>e</cell>
+                        <cell>G. Gannaval.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell>G. Saint ffaeth.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>H</cell>
+                        <cell>G. Gain.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>G. S. Denis.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>f</cell>
+                        <cell>G. S. Edward.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>H</cell>
+                        <cell>Yr haul yn y <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>d</cell>
+                        <cell>g. <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u: Evangylius.</cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>g</cell>
+                        <cell>g. vnvil arðec gwyryðon.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>g. Wnnog a noethen.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>f</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>g. Simon a J<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>b.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell>g. ðogvael. Mevilia.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Y Mis ymma haya wenith a rhyg dros olh, kartha dy gloðieu, dod goed plwmmas a pher ac avaleu a ſym<g ref="char:EOLhyphen"/>myd goed, dot gnay frengic a phlyg verthidrain.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:7"/>
+               <head>Nouember. Mis tachwed.xxx.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>x</cell>
+                        <cell>d</cell>
+                        <cell>
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>. Kalan gayaf.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>f</cell>
+                        <cell>g. Griſtiolus a chlydoc.</cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell>g. Gwvf.</cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>b</cell>
+                        <cell>g. S. Lednart</cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>c</cell>
+                        <cell>g. Gyngar.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell>g. Dyſiliaw.</cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell>g. Marthin Eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell>ix</cell>
+                        <cell>H</cell>
+                        <cell>g. Gydwaladyr ameylic.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>c</cell>
+                        <cell>
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>g. Edmwnd Eſcob.</cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>b</cell>
+                        <cell>g. Edmwnd vrenhin.</cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>d</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>e</cell>
+                        <cell>g. Glement verthyr.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvi</cell>
+                        <cell>g</cell>
+                        <cell>g. S. katerin.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell>g. Galhgof.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>d</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>e</cell>
+                        <cell>
+                           <gap reason="illegible" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>DOd a ſymmyd yn y mis hwun goed plwmmas, a pher ac avaleu, torr dygoed defnyð yn niweð y lhe<g ref="char:EOLhyphen"/>yad ac yn enwedig goed onn y wneythyr defnyðion a cadyr, a brynara dy dir ar vedyr haið.</p>
+            </div>
+            <div type="month">
+               <pb facs="tcp:181011:8"/>
+               <head>December. Mis rhagvyr.xxx.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xviii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>vii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xv</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>iiii</cell>
+                        <cell>d</cell>
+                        <cell>g. S. Nicolas.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xii</cell>
+                        <cell>f</cell>
+                        <cell>g. Mair a chynydy<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell>i</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>d</cell>
+                        <cell>Yr haul ynghorn yr a<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>yr .g. Silie.</cell>
+                     </row>
+                     <row>
+                        <cell>vi</cell>
+                        <cell>e</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xiiii</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ii</cell>
+                        <cell>H</cell>
+                        <cell>g. Dydecho.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>b</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xi</cell>
+                        <cell>c</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xix</cell>
+                        <cell>d</cell>
+                        <cell>Mevilia.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>e</cell>
+                        <cell>g. Domas chaſtor.</cell>
+                     </row>
+                     <row>
+                        <cell>viii</cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>xvii</cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>v</cell>
+                        <cell>b</cell>
+                        <cell>Duw Nadoli<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>c</cell>
+                        <cell>g. Sryphan verthyr.</cell>
+                     </row>
+                     <row>
+                        <cell>xiii</cell>
+                        <cell>d</cell>
+                        <cell>g. Ieuan evangyliwr.</cell>
+                     </row>
+                     <row>
+                        <cell>iii</cell>
+                        <cell>e</cell>
+                        <cell>g. Y <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u veibion.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>f</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>x</cell>
+                        <cell>g</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>H</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>YN y mis ymma torr goed defnyð y adeil. a thorr y perthi ar koeg geingey, dal adar a rhwyden ac a phyg a brynara dy dir y haið.</p>
+            </div>
+         </div>
+         <div type="almanac">
+            <pb facs="tcp:181011:8"/>
+            <head>Almanak dros ugainc mlyneð.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Dedion y<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ar gwlyb, ney ri<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> y hiy<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>en.</cell>
+                     <cell>Duw Baſc.</cell>
+                     <cell>Rhif y prif a elwir y rhif auraid.</cell>
+                     <cell>A hythy<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yn y Sul.</cell>
+                     <cell>Lhythyren y Biſext.</cell>
+                  </row>
+                  <row>
+                     <cell>M. D. xivii.</cell>
+                     <cell>x. Ebrilh.</cell>
+                     <cell>ix</cell>
+                     <cell>B</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. xiviii.</cell>
+                     <cell>i. Ebrilh.</cell>
+                     <cell>x</cell>
+                     <cell>A</cell>
+                     <cell>G</cell>
+                  </row>
+                  <row>
+                     <cell>M. D. xlix.</cell>
+                     <cell>xxi. Ebrilh.</cell>
+                     <cell>xi</cell>
+                     <cell>F</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. l.</cell>
+                     <cell>vi. Ebrilh.</cell>
+                     <cell>xii</cell>
+                     <cell>E</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. li.</cell>
+                     <cell>xxix. o vawrth.</cell>
+                     <cell>xiii</cell>
+                     <cell>D</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lii.</cell>
+                     <cell>xvii. Ebrilh.</cell>
+                     <cell>xiiii</cell>
+                     <cell>C</cell>
+                     <cell>B</cell>
+                  </row>
+                  <row>
+                     <cell>M. D. liii.</cell>
+                     <cell>ii. Ebrilh.</cell>
+                     <cell>xv</cell>
+                     <cell>A</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. liiii</cell>
+                     <cell>xxv. Mawrth.</cell>
+                     <cell>xvi</cell>
+                     <cell>G</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lv.</cell>
+                     <cell>xiiii. Ebrilh.</cell>
+                     <cell>xvil</cell>
+                     <cell>F</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lvi.</cell>
+                     <cell>v. o Ebr.</cell>
+                     <cell>xviil</cell>
+                     <cell>E</cell>
+                     <cell>D</cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lvii.</cell>
+                     <cell>xviii. o Ebr.</cell>
+                     <cell>xix</cell>
+                     <cell>C</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lviii.</cell>
+                     <cell>x. o Ebrilh.</cell>
+                     <cell>i</cell>
+                     <cell>B</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lix.</cell>
+                     <cell>xxvi. o Vawr.</cell>
+                     <cell>ii</cell>
+                     <cell>A</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lx.</cell>
+                     <cell>xiiii. Ebrilh.</cell>
+                     <cell>iii</cell>
+                     <cell>G</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxi.</cell>
+                     <cell>vi. o Ebr.</cell>
+                     <cell>iiii</cell>
+                     <cell>E</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxii.</cell>
+                     <cell>xxix. Mawrth.</cell>
+                     <cell>v</cell>
+                     <cell>D</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxiii.</cell>
+                     <cell>xi. Ebrilh.</cell>
+                     <cell>vi</cell>
+                     <cell>C</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxiiii.</cell>
+                     <cell>ii.o Ebrilh.</cell>
+                     <cell>vii.</cell>
+                     <cell>B</cell>
+                     <cell>A</cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxv</cell>
+                     <cell>xxii. o Ebrilh.</cell>
+                     <cell>viii</cell>
+                     <cell>G</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>M. D. lxvj.</cell>
+                     <cell>xiiii.o Ebrilh.</cell>
+                     <cell>ix.</cell>
+                     <cell>F</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="explication">
+               <head>Whedi y aðnabod y Paſg dragwyðol.</head>
+               <p>Edrych y prif neſſaf yn ol y lythyren. L. kyntaf or mis mawrth a rhif dri ſul wedy, ar trydyd ſul vyð duw paſc, a phe vai yr prif ar y ſul, rhiver hwnnw yn vn or tri ſul. Val y mae yti y ſynied y vlwyðyn honn, nyd amgen M. D. rlvil. lhe mae yr B. yn lythyren y Sul, a.ir. yn rif y prif, y ðiſkyn ar yr ynved dyð ar ugaint o vawrth. ar try<g ref="char:EOLhyphen"/>dyð ſul ar ol hynny y ðyſkyn ar y degved dyð o Ebrilh, ſef yw hwnuw dyw paſc. y vlwyðyn honn.</p>
+            </div>
+            <div type="explication">
+               <pb facs="tcp:181011:9"/>
+               <p>
+                  <seg rend="decorInit">B</seg>Lwyðyn yr haul y ſyd drichant a thri<g ref="char:EOLhyphen"/>gain a phymp diwarnod a whech awr, a deuðeg wythnos a deugain tac vn di<g ref="char:EOLunhyphen"/>warnod, ac yn hynny o amſer y mae yr haul yn kerðed dros y deudeg arwyð or zodiak.</p>
+               <p>Y vlwyðyn biſext y ðiſkyn vnwaith, bob pedair blyneð<g ref="char:punc">▪</g> o achaws y whechawr y ſy dros benn yr haul yr hwnn a wna vn diwarnot rhagor mewn pedair blyneð. lhythyren y ſul y newidia bob blw<g ref="char:EOLhyphen"/>yðyn o achos y dyð dros benn y ſy yny vlwyðyn a hi newidia dwywaith mewn blwyðyn biſſext.</p>
+               <p>Blwyðyn y lheyad y ſy o. xxvii. nywarnod ac. viii. awr.</p>
+               <p>Eythyr rhwng pob lheyad newyð ay gylyð y mae naw niwarnod ar ugaint a hanner diwarnod. ka<g ref="char:EOLhyphen"/>nys o gyfnewid yr haul ar lheyad yny gywhyr<g ref="char:EOLhyphen"/>ðon ailwaith, ve ðervyð yr haul gerðed ðros vn or deuðeg arwyðon agos, or maun lhe y ymma<g ref="char:EOLhyphen"/>dawſei ar lheyað, ac ym penn deu ðiwarnod a han<g ref="char:EOLhyphen"/>ner y gorðiweda yr lheyad yr haul, ac yno y byð kyfnewid y lheyad.</p>
+               <p>Ac y kerða yr lheuad thwng pob kyfnewid ae gy<g ref="char:EOLhyphen"/>lið dros holh arwyðon y zodiak, ſef yw hynny ky<g ref="char:EOLhyphen"/>maint ac a gerðo yr haul yn y vlwyðyn.</p>
+               <p>Rhif y prif a elwir hevyd y rhif auraid. y ðychym<g ref="char:EOLhyphen"/>mygoð Iwl keſar gyntaf ac ae kaſkloeð or dy<g ref="char:EOLhyphen"/>ðieu ar orieu aghyniver o bob kyfnewid, er gwy<g ref="char:EOLhyphen"/>bot y dyð y kyfnewidio yr lheyad yndaw, heb Al<g ref="char:EOLhyphen"/>manak yn y byd, onyd kalandyr y bo y rhif hynny yndaw, ac ef a bara y rhif hwnnw o vn hyd bed<g ref="char:EOLhyphen"/>wararbymtheg, kyn dyvod yðy gwrs ellwaith.</p>
+               <p>
+                  <pb facs="tcp:181011:9"/>A. ix. ydiw y rhif hwnnw y vlwyðyn honn, ſef yw hynny o oedran yr Arglwyð mil a phympcant a ſaith a deugain.</p>
+            </div>
+         </div>
+         <div type="introduction_to_numeracy">
+            <list>
+               <head>¶Rhif.</head>
+               <item>vn.<seg rend="above">1</seg>
+                  <seg rend="above">i</seg>
+               </item>
+               <item>deu.<seg rend="above">2</seg>
+                  <seg rend="above">ii</seg>
+               </item>
+               <item>tri.<seg rend="above">3</seg>
+                  <seg rend="above">iii</seg>
+               </item>
+               <item>pedwar.<seg rend="above">4</seg>
+                  <seg rend="above">iiii</seg>
+               </item>
+               <item>pymp.<seg rend="above">5</seg>
+                  <seg rend="above">v</seg>
+               </item>
+               <item>whech.<seg rend="above">6</seg>
+                  <seg rend="above">vi</seg>
+               </item>
+               <item>ſaith.<seg rend="above">7</seg>
+                  <seg rend="above">vii</seg>
+               </item>
+               <item>wyth.<seg rend="above">8</seg>
+                  <seg rend="above">viii</seg>
+               </item>
+               <item>naw.<seg rend="above">9</seg>
+                  <seg rend="above">ix</seg>
+               </item>
+               <item>dec.<seg rend="above">10</seg>
+                  <seg rend="above">x</seg>
+               </item>
+               <item>vnarðec,<seg rend="above">11</seg>
+                  <seg rend="above">xi</seg>
+               </item>
+               <item>deuðec.<seg rend="above">12</seg>
+                  <seg rend="above">xii</seg>
+               </item>
+               <item>triarðec.<seg rend="above">13</seg>
+                  <seg rend="above">xiii</seg>
+               </item>
+               <item>pedwararðec.<seg rend="above">14</seg>
+                  <seg rend="above">xiiii</seg>
+               </item>
+               <item>pymthec.<seg rend="above">15</seg>
+                  <seg rend="above">xv</seg>
+               </item>
+               <item>vnarymthec.<seg rend="above">16</seg>
+                  <seg rend="above">xvi</seg>
+               </item>
+               <item>deuarymthec.<seg rend="above">17</seg>
+                  <seg rend="above">xvii</seg>
+               </item>
+               <item>tri arymthec.<seg rend="above">18</seg>
+                  <seg rend="above">xviii</seg>
+               </item>
+               <item>pedwararymthec.<seg rend="above">19</seg>
+                  <seg rend="above">xix</seg>
+               </item>
+               <item>vgain.<seg rend="above">20</seg>
+                  <seg rend="above">xx</seg>
+               </item>
+               <item>vn aru gain.<seg rend="above">21</seg>
+                  <seg rend="above">xxi</seg>
+               </item>
+               <item>deuarugain.<seg rend="above">22</seg>
+                  <seg rend="above">xxii</seg>
+               </item>
+               <item>tri arugaint.<seg rend="above">23</seg>
+                  <seg rend="above">xxiii</seg>
+               </item>
+               <item>Ac velhy racðo hyt at ðecarugaint.<seg rend="above">30</seg>
+                  <seg rend="above">xxx</seg>
+               </item>
+               <item>ac oðyno hyd ar ðeugain.<seg rend="above">40</seg>
+                  <seg rend="above">xl</seg>
+               </item>
+               <item>dec a deugain.<seg rend="above">50</seg>
+                  <seg rend="above">l</seg>
+               </item>
+               <item>trigain.<seg rend="above">60</seg>
+                  <seg rend="above">lx</seg>
+               </item>
+               <item>decathrigain.<seg rend="above">70</seg>
+                  <seg rend="above">lxx</seg>
+               </item>
+               <item>pedwarugain.<seg rend="above">80</seg>
+                  <seg rend="above">lxxx</seg>
+               </item>
+               <item>dec a phedwar vgain.<seg rend="above">90</seg>
+                  <seg rend="above">lxxxx</seg>
+               </item>
+               <item>Cant.<seg rend="above">100</seg>
+                  <seg rend="above">C</seg>
+               </item>
+               <item>vnachant.<seg rend="above">101</seg>
+                  <seg rend="above">Ci</seg>
+               </item>
+               <item>deuachant,<seg rend="above">102</seg>
+                  <seg rend="above">Cii</seg>
+               </item>
+               <item>Mil,<seg rend="above">1000</seg>
+                  <seg rend="above">M</seg>
+               </item>
+               <item>dwyvil.<seg rend="above">2000</seg>
+                  <seg rend="above">MM</seg>
+               </item>
+               <item>teirmil, ac<seg rend="above">3000</seg>
+                  <seg rend="above">m.m.m</seg>
+               </item>
+               <item>velhy hyt at ðegmil.<seg rend="above">10000.</seg>
+                  <seg rend="above">x.M.</seg>
+               </item>
+            </list>
+            <p>
+               <pb facs="tcp:181011:10"/>PArffeitha ydiw y rhif uchaf a elwir awgrym a gwybyð nad oes ond naw lhythyr rhif y gyt yndaw, nid amgen. 1 2 3 4 5 6 7 8 9. ac vn arwyð ſef yw hynny .0. y peth ny arwyðockaha rhif yn y byd ehun, onyd ef a bair wrth y lhe y bo yn ſevylh yr rhif y vo yn y vlaen vod yn ywch y rif, ſef yw hynny ve wna yr neſſaf oe vlaen ðengwaith y rhif y arwyvckaei wrtho ehun, val. 10. dec. ar ail oe v<g ref="char:EOLhyphen"/>dlaen ganweith y rymm ehun val. 110. ſef yw dec a chant, at trydyd mil, val. 1110. ſef yw hynny, mil a chant a dec. Ac velhy racðo.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:181011:10"/>
+            <head>¶Kymro yn danvon Annerch at y darlheawdyr.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>R awr nad oes dim hoffach gán ras yn brenhin vrðaſſol ni. No gwelet bot geirieu duw ae evengil yn ker<g ref="char:EOLhyphen"/>ðet yn gyffredinol ymyſk y bobyl ef, y peth y ðengys y vot ef yn dywyſ<g ref="char:EOLhyphen"/>ſoc mor dwyvawl ac y mae kadarn. A phan roes eiſwys gymmaint o ðonieu preſ<g ref="char:EOLhyphen"/>ſennol y genedyl kymry. Ny byð lheſgach y genna<g ref="char:EOLunhyphen"/>dhau yðyn ðonyeu yſprydawl.</p>
+            <p>Am hynny gweðys yw rhoi yngymraec beth or yſcrythur lan, o herwyð bod lhawer o gymry a vedair darlhein kymraeg, heb vedru darlhein vn gair ſaeſnec na lhadin, ag yn enwedic y pync<g ref="char:EOLhyphen"/>keu y ſy anghenrheydiol y bob rhyw griſtion y gwybot dan berigyl y enaid, ſef yw hynny: pync<g ref="char:EOLhyphen"/>keu yr ffydd gatholic, ar weddi a ðyſgoeð duw y<g ref="char:EOLhyphen"/>ni, a elwir y pader, ar deng air deðyf, ar gwydyeu gochladwy ar kampeu ar veradwy.</p>
+            <p>Ac er bod y rhain gyda lhawer o betheu da e<g ref="char:EOLhyphen"/>railh yn yſkrivennedic mewn bagad o hen lyfreu kymraeg, etto nyd ydy yr lhyyfreu hynny yn gyffre din ol ymyſk y bobyl. Ac yr awr y Rhoes duw y prynt yn myſk ni er amylhau gwybodaeth y eireu be<g ref="char:cmbAbbrStroke">̄</g>digedic ef, iawn yni, val ygwnaeth holh griſti onogaeth heb law, gymryt rhann or daeoni hwn<g ref="char:EOLhyphen"/>nw gyda yn hwy, val na bai ðiffrwyth rhoð kyſt<g ref="char:EOLhyphen"/>al a hon yni mwy noc y erailh, ac er ym ðymyno gwybod o bob vn om kiwdawdwyr i yr kymry ſa eſneg ney ladin, lhe traethir or petheu hyn yn ber<g ref="char:EOLhyphen"/>ffeithach, etto am na elhir hynuy hyd pan welo duw yn ða a wahanoeðieythoð y byd er yn koſpe<g ref="char:EOLunhyphen"/>digaeth
+<pb facs="tcp:181011:11"/>
+ni, pechod mawr oeð ado yr ſawl mil o enaideu y vyned ar gyfyrgolh rac eiſeu gwybo<g ref="char:EOLhyphen"/>daeth y fyð gatholic, ac y ſyð heb wybod iaith yny byd onyd kymraeg.</p>
+            <p>Kanys heb ffyð ny elhir rhe<g ref="char:cmbAbbrStroke">̄</g>gi boð duw. ar periglo ryon y ſy yny myſk, oſwaethhiroeð, y nailh ae nys medran, ae nys mynnan ðangos yw plwyvogy<g ref="char:EOLhyphen"/>on y petheu y maen yn rhwymedic y lhailh yw da<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>gos, ar lhalh eu gwybod, duw ae dycko yr iawn ac y aðnabod y perigleu, pa weð y gorffo arnyn at teb am yr eneideu elo ar gyfyrgolh drwy y heiſieu hwy. Ac er bod y gofal mwya, yn perthyn yr peri<g ref="char:EOLhyphen"/>glorion, etto ny byð neb dibwl, ac y rhoes duw ðo<g ref="char:EOLhyphen"/>nyeu ney gyfarwyðyd yðaw, ny wnelo y peth y alho er hyſbyſſu yðy gydriſtio<g ref="char:cmbAbbrStroke">̄</g> y pynkeu y ſy mor anhepkor ar rhain. Ac am hynny gyt a gwelet vot rhan vawr om kenedyl gymry mewn tywylhwch afriuaido eiſieu gwybodaeth duw ae orchymineu ac o herwyð hynny y dygwyðo mewn dyfynder pechodeu a gwyðyeu yn rhagorach no chenedloeð erailh, ac am ſynyeid y bod a donyeu da o ſynwyr a dealh gwedy y ðuw y rhoi yðynt, val y gobei<g ref="char:EOLhyphen"/>thwn y bai hawð gentyn welhau en drycarveron onyd diſcu yr iawn forð yðyn, mi a veðyliais er ka riad vyngwlad roi yðyn y pynkeu hyn ynghymra eg erda<g ref="char:cmbAbbrStroke">̄</g>gos blas yðyn o velyſper ewylhus duw ac er kadw eu henaidieu, y rhai ny alho e<g ref="char:cmbAbbrStroke">̄</g>nilh kyfrwy ðyd rhagorach drwy ieithoð erailh, y peth y ðym<g ref="char:EOLhyphen"/>ynwn yðyn y geiſiaw yn ðyfal<g ref="char:punc">▪</g> weithian dangoſ<g ref="char:EOLhyphen"/>ſwch vynghytwladwyr o hynn alhan nad o ðrwc ania<g ref="char:cmbAbbrStroke">̄</g> onyd o eiſieu gwybodaeth y byoch veiys kyn hynn, na edwch y minney gymryd hynn o drava<g ref="char:EOLhyphen"/>el
+<pb facs="tcp:181011:11"/>
+yn ðiffrwyð dryſſoch, ac yn lhekwvyl o dal am yn rhavael y kymmeraf inney, os chwi a gymmer ffrwyth o hynn. drwy ðuw ae rad heb yr hwn ny cheffir dim ac y vo da. yrr hwnn y bo gogonyant tragwyðawl, poet gwir.</p>
+         </div>
+         <div type="introduction_to_Welsh">
+            <head>¶Rheol y aðnabod y Gwyðor iſſod.</head>
+            <p>Am newidiaw o honaf beth o hen ortograff kym<g ref="char:EOLhyphen"/>raeg yn amgenach noc y by arveredic eſcrivenny kynn hynn nyd heb achos kywrain, mi a ðodeis gwyðor or lhythyreu iſlaw, ac ywch benn pob vn air y ðangos nerth pob lhythyrenn. A gwybyð pa rym y mae pob rhiwlythyren yny ðwyn yn y gair ywch be<g ref="char:cmbAbbrStroke">̄</g>n gogyvair arlhythyren y vynnych, yr vn rym y ðyg yn waſtat, ac onyd kofio hynny yn ða, hawð ytt ðyſcu darlhein y lhyvyr hwnn er na ðyſ<g ref="char:EOLhyphen"/>kyſid di ðarlhein dimm kymraec er toed or blaen, o medryd ðarlhein vn iaith aralh heb law.</p>
+            <div type="alphabet">
+               <pb facs="tcp:181011:12" rendition="simple:additions"/>
+               <head>¶Y gwyðor.</head>
+               <p>a<seg rend="above">Aðaf.</seg> b<seg rend="above">Byd.</seg> c<seg rend="above">Caeth.</seg> d ð<seg rend="above">Dygoð.</seg> e<seg rend="above">Eua.</seg> ff f<seg rend="above">Folaf.</seg> g<seg rend="above">Gyrroð.</seg> h<seg rend="above">Hwn.</seg> i<seg rend="above">Ieſſu.</seg> k<seg rend="above">Kedwis.</seg> l<seg rend="above">Lawer.</seg> lh<seg rend="above">lhwyth.</seg> m<seg rend="above">Marwol.</seg> n<seg rend="above">Newyð.</seg> o<seg rend="above">O baith.</seg> p<seg rend="above">Parwys.</seg> r r<seg rend="above">Raſſol.</seg> rh<seg rend="above">Rhi.</seg> ſ s<seg rend="above">Santeið.</seg> t<seg rend="above">Tynnoð.</seg> v u<seg rend="above">Vuben.</seg> v<seg rend="above">Var.</seg> y<seg rend="above">Ynys.</seg> w<seg rend="above">Wylwyr.</seg>
+               </p>
+            </div>
+            <div type="introduction_to_pronunciation">
+               <head>¶Rheol.</head>
+               <p>POb gair vnſilhavoc yny gymraer, o ðiethyr o<g ref="char:EOLhyphen"/>did o vn, y leiſir yn hirlhaes, val gwr, mab, dyn, acam hynny nyd rhaid nodi vn or vath hynny ac ackan leðyf ywch y benn, o herwyð y reol gyf<g ref="char:EOLhyphen"/>fredin hon. Ythyr o diſgyn gair y leiſir in galed, nyd rhaid rhoi dwy lythyren yn niweð y gair val y by arveredic kyn i yn, kanys diffrwyth oeð hynny ony bai ynghenol gair, am vod vn l hythy<g ref="char:EOLhyphen"/>ten ky gadained a dwy or vn rhiw yny grym e<g ref="char:EOLhyphen"/>hun. Ythyr er gwahanaeth ſillaf bicka o ði wrth ſilhaf leðyf mi a ðodeis ackan lem ywch ben y ge il wad y vo yny vath ſilhaf hynny: val hyn, kyn, dal, y aðnabod hyn peth mwy y oed, kyn, pawl, dal talken: oðiwrth y geireu ychod y ſcri<g ref="char:EOLhyphen"/>vennid gynt val hynn, kynn, dalh, a hynny y dy<g ref="char:EOLhyphen"/>bieis i vot yn gywreinach noc arver o overlythy<g ref="char:EOLhyphen"/>reu vwy nac y bai raid wrthyn.</p>
+            </div>
+            <div type="explication">
+               <pb facs="tcp:181011:12"/>
+               <head>¶Rheol aralh.</head>
+               <p>Gwybyðwch vod or kytſeinanyeid, rhai yn bic<g ref="char:EOLhyphen"/>ca, val</p>
+               <l>k.ney.c. t p</l>
+               <l>Erailh yn genolig, val</l>
+               <l>g d b</l>
+               <l>Erailh yn echueidawl, val</l>
+               <l>ch. th. ph. ney. ff.</l>
+               <l>Erailh yn veðal, val</l>
+               <l>ð. v. ney. f.</l>
+               <p>A Lheiſo yr rhai picka pan ðiſgynnon yn ni<g ref="char:EOLhyphen"/>weð gair val y rhai kenolic val hyn. Cadwc kat, pop, yn lhe cadwg, kad, pob. Ac wrth dreiglo yr geirieu, y ſymmyd pob vn or kytſynanyeid yw gylið, vel hynn mi a bara, par di, ny pharei ef: ac velhy y gwna rhai or kytſynanyetd erailh, val. m. mawr, na vawr.</p>
+               <p>Y geilweid a. e. i. o. y. u w. gwybyð roi yr lhais ar grym y maen yny ðwyn yny gwyðor ychod: a go<g ref="char:EOLhyphen"/>gel y lheiſio hwy, val y ðis gan mwya yn lhadin ac ynſaecnec, eithyr hwy y leiſir ymma yn nes at yr he<g ref="char:cmbAbbrStroke">̄</g> athrawaeth, o ſynyir yn ða ar y gwyðor uchod. y. ac. u. vn lhais y ðygant, val y byon gan athraw<g ref="char:EOLhyphen"/>on lhadin a groec onyd bod yr. u. yn hir bop amſer val vn, du. ar. y. weitheu yn drom weitheu yn bic<g ref="char:EOLhyphen"/>ka. y. lhais. val yn y gair hwn, y dyn. yr y kyntaf y leiſir yn drwm ar ail yn bicka. V pan vo yn gydſei<g ref="char:EOLhyphen"/>nyad y ſcrivennir yn echreu y gair, ac, f. yny diweð. ð. ar nod hyn y dodeis i yn lhe. dd. lh. yn lhe. ll. rh yn
+<pb facs="tcp:181011:13"/>
+lhe. rr. o achaws y vai hawð y ðangos y vot yn gy<g ref="char:EOLunhyphen"/>wreinach, ac yn nes y athrawaeth lhadin a groec no dyblu yr lhythyreu hynny, onyd nad rhaid hyn<g ref="char:EOLhyphen"/>ny ynawr rac rhwyſtro y peth eu y ſy reitach.</p>
+               <p>Gwybyð hevyd vod ackan lem ar bob ſtlhaf ðiwe tha onyd vn, o bob gair lhyaws ſilhavoc: val yny geireu hynn lhythyr, lhythyren, lhythyrenney.</p>
+               <p>q. ac. x. nyd rhaid wrthyn ynghymraec ony ðiſkyn gair lhadin.</p>
+               <p>KYwreinach oeð Lythyreu Groec no Lhadin y ni pai gelhid torri yr hen ðevot. Ac etto or kyntaf olh y gwelir ymi arveru or Brython hynaf lythyreu groec. Kanys Plini yn y lyuyr o yſtoria nattur a ðyweid, vod yn y amſer ef ym prydai wyr a elwid yn lhadin Druydes yn wyr o ðyſc mawr mewn kelvyðyd a elwir yn lhadin, Magia, ſef oeð honno kelvyðyd y adnabot rheol y ſer ar ſeignyeu a nattur pob poth dayarol. Ac y dyweit Iwl Ke<g ref="char:EOLhyphen"/>ſar mae oðy ymma y dathoeð y geluyðyd hynny y ffraink a bod y gwyr dyſgedic o honi yn eſkriven<g ref="char:EOLhyphen"/>nu eu kelvyðod eu a lhythyreu groec yn y amſer ef: Etwo am vod ieythoeð holh Ewropa yn arver o lhythyreu Lhadin yr awr honn, a phe newidiyd hwy y nawr, ve golhid yr hen lyfreu, go reu yw kadw yr lhythyreu arveredic gan welhau pob y<g ref="char:EOLhyphen"/>chydic y petheu y vo heiys.</p>
+            </div>
+         </div>
+         <div type="section">
+            <div type="Creed">
+               <pb facs="tcp:181011:13"/>
+               <head>¶Credo, ney bynkey yr ffyð gatholic.</head>
+               <p>CRedaf y ðuw dad holhalhyawc creawdyr nef a dayar.</p>
+               <p>Ac y Ieſſu Griſt y vnmab ef, yn harglwyð ni.</p>
+               <p>Yr hwn y gad o tad yr yſpryt glan, ac y aned o vair wyry.</p>
+               <p>Y ðioðeuoð dan Bons Pilat y groeſhoeli, y lað ae glaðu.</p>
+               <p>Ac y diſkynnoð y vffern, ar trydyð dyð y kyvodoð o veirw y vyw.</p>
+               <p>Ac y eſkynnoð ar nefoeð, ac y mae yn eiſteð ar ðe<g ref="char:EOLhyphen"/>heu Duw dad holh gyvoethawc.</p>
+               <p>O ðyn o y daw y varnu ar vyw a meirw.</p>
+               <p>¶Credaf yr yſpryt glan.</p>
+               <p>A bod vn e glwys lan gatholic.</p>
+               <p>Ac yndi gyffrediurwyð y ſainct, a maðeueint pe<g ref="char:EOLhyphen"/>chodeu.</p>
+               <p>Ac y kyuyd pawb yn eu knawt.</p>
+               <p>Ac y kayff yr etholedigion vywyt tragwyðawl.</p>
+            </div>
+            <div type="Pater_Noster">
+               <head>¶Pater noſter, ney weði yr arglwyð.</head>
+               <p>YN tad ni, yr hwn wydyn y nef, ſanteider dy enw di:</p>
+               <p>Doed dy deyrnas di attom:</p>
+               <p>Gwneler dy ewylhys di: yn y ðayar, megis yn y nef.</p>
+               <p>Dyro yni heðiw yn bara beynyðiol.</p>
+               <p>Maðeu y ni yn dylyedion, val y madeuwn ni yn dylyedwyr ninney.</p>
+               <p>Ac na ðwc ni y brovedigaeth.</p>
+               <p>Ond rhyðhaa ni rac drwc. Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:181011:14"/>
+               <head>¶Aue Maria.</head>
+               <p>HAmpych gwelh vair kyflawn o rad, mae Duw gyt a thi. Bendigaid wyd ymplith y gwrageð, a bendigedic yw ffrwyth dy groth di.</p>
+               <p>Amen.</p>
+            </div>
+            <div type="lesson">
+               <head>¶Kriſt y ðywad val hyn.</head>
+               <p>PA beth bynnac y geiſioch chwi gan vyn had yn vy enw i ef ae rhyð ywch.</p>
+               <p>Meðylia ymma yr darlheawdyr glan, pan geiſio gwr y nailh ay petheu anvad, ay petheu y vai ðrwc ar y les ehun, nad yn enw kriſt y mae yn dei<g ref="char:EOLhyphen"/>ſif yno, keiſiwch yu gyntaf deyrnas ðuw, ae gy<g ref="char:EOLhyphen"/>fiawnder ef, ar hynn ygyt ac y vo da er ych lhes y gwplair ywch.</p>
+            </div>
+            <div type="Ten_Commandments">
+               <head>¶Y deng air deðyf, ney yr dec gor<g ref="char:EOLhyphen"/>chymmyn Duw.</head>
+               <p>NA vid yt vn geuduw, rhac vy wyneb i.</p>
+               <p>Na wna yt ðelw gervedic, na lhyn dim ar y ſyð yny nefoeð o uchel, nac yn y ðayar o iſſel, nac yn y dyfwr iſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw yr ðayar: na oreſtwng yðynt, nac anrhydeða hwy.</p>
+               <p>Na chymmer enw dy arglwyð ðuw yn over.</p>
+               <p>Koffa ſanteiðo dy ðyð ſul.</p>
+               <p>Anrhydeða dy dad ath vam.</p>
+               <p>Na Lað neb.</p>
+               <p>Na wna oðineb.</p>
+               <p>Na ðwc gam dyſtoliaeth yn erbyn dy gymmo<g ref="char:EOLhyphen"/>dawg.</p>
+               <p>Na whennycha dy dy gymmodawc, nae wraig. nae was mae vorwyn, nae ych, nae aſſen, na dim ac y vo eiðaw.</p>
+            </div>
+            <div type="cardinal_sins">
+               <pb facs="tcp:181011:14"/>
+               <head>¶Kriſt a roes yn ni ðeu orchymmyn er kyf<g ref="char:EOLhyphen"/>lawny yr holh degair uchod.</head>
+               <p>KAr dy arglwyð ðuw oth holh gallon, oth holh enaid, oth holh nerth, ac oth holh veðwl A char dy gyfneſſaf yn gymemt a thi dyhun.</p>
+               <p>Y gwydyeu goch ladwy. Y kampeu arveradwy. Y ſaith pechod marwol. Kampeu da gwrthwyneb yr gwydieu vchod.</p>
+               <list>
+                  <item>Syberwyd neu valcheð.</item>
+                  <item>Kenvigen, ney gyghorvynt.</item>
+                  <item>Digaſſeð, neu irlhoneð.</item>
+                  <item>Lheſgeð neu ðiogi.</item>
+                  <item>Aggawrdeb ney gebyðiaeth.</item>
+                  <item>Glythineb.</item>
+                  <item>Godineb, ney aniweirdeb.</item>
+                  <item>Vfyðdawt.</item>
+                  <item>Kariat.</item>
+                  <item>Anmyneð.</item>
+                  <item>Ehudrwyð.</item>
+                  <item>Haelioni.</item>
+                  <item>Kymedrolder.</item>
+                  <item>Diweirdeb.</item>
+               </list>
+               <div type="part">
+                  <head>¶Keingyeu ſyberwyt. xvi.</head>
+                  <p>Ymvychaw. Yw na oðefer neb yn gyfuwch nac yn gyfrad.</p>
+                  <p>Bocſachu. Kymeryd o wr vod eiðaw y peth nyd ydiw.</p>
+                  <p>Ymdrychauael. Ymrhagori ehun gan dremygu e<g ref="char:EOLhyphen"/>railh.</p>
+                  <p>Anoſtwng. Ny ðareſtwng y welh neu bennach noc ef.</p>
+                  <p>Drudannaeth. hirdrigyat meðwl ar y drwc.</p>
+                  <p>Ymchwyðaw. ymwrthlað yn tremygus yn erbyn awdurdot henafyon.</p>
+                  <p>Kynhennu. Bloeðgar gynghewſeð yn erbyn gwi<g ref="char:EOLhyphen"/>rioneð.</p>
+                  <p>Anoðef. Gwylhtineb meðwl heb y ffrwyno.</p>
+                  <p>Anuvyðdawt. Anoſtwng y vchafion ae gorchy<g ref="char:EOLhyphen"/>mynneu.</p>
+                  <p>
+                     <pb facs="tcp:181011:15"/>Tremyc. Gwalhus ebry vygu gwneythur y ðir<g ref="char:EOLhyphen"/>perer.</p>
+                  <p>Rhac ymgymryt. yw gommeð dylyedus anrhy<g ref="char:EOLhyphen"/>deð y hynafion.</p>
+                  <p>Kelhweir. afreolus ymgeiniaw drwy chwareys watwar.</p>
+                  <p>Geugrevyð. kiðio y veieu, a dangos kampeu heb y bot.</p>
+                  <p>Tralha varieyth. gormoð olhwng traorwagiou barableu.</p>
+                  <p>Traachub. Trach waut y gael anrhydeð er clot tranghedic.</p>
+                  <p>Clot orwac. gwyðyus oruoleð am gampeu y vo neu ny bon gantaw heb rodi moliant y ðuw am danunt.</p>
+               </div>
+               <div type="part">
+                  <head>Keingieu kenvigen.</head>
+                  <p>Gogan, yw anglotvori aralh yny abſein.</p>
+                  <p>Anglot. yw goganu aralh yn dwylhodrus yny avſein.</p>
+                  <p>Abſenair. yw kyfarthgar ogan huſtyngus yn abſenn aralh.</p>
+                  <p>Klyſthuſtingas, yw kaſhuſting ðychymmyg drwg wrth, vedianneyd neu ſwyðogion y golhe<g ref="char:EOLhyphen"/>du aralh o ðigaſſeð arnaw.</p>
+                  <p>Dybrydrwyð, yw gwrthynebu clod oralh am y werthredoð da.</p>
+                  <p>Melhtigaw, yw bwrw dryc dyb yn erbyn gwei<g ref="char:EOLhyphen"/>thred da, a chamyſturyaw. kyvarſagu da a chy<g ref="char:EOLhyphen"/>diaw clot.</p>
+                  <p>Drycðychymic, gyrru ar aralh newyð ogan yn gelwyðawr.</p>
+                  <p>
+                     <pb facs="tcp:181011:15"/>Digaſſeð, yw anuynnu lhes neu damwein da y aralh.</p>
+                  <p>Anghyweirdeb, yw aniolwch y aralh y da.</p>
+                  <p>Kas chwerwder, yw gwenwynuar diffeith ve<g ref="char:EOLhyphen"/>dwl dirann o leweryð.</p>
+                  <p>Anundeb, yw kaſſau aralh, hyt na mynner bod yn vn ac ef.</p>
+                  <p>Gwatwar, yw kelhweirus digryſwch, y dremy<g ref="char:EOLhyphen"/>gu aralh.</p>
+                  <p>Kuhuðaw, yw menegi drwg ar aralh gerbronn brawdwr wrth, Y golhedu.</p>
+                  <p>Kas yw angharu aralh drwy rhybychaw drwg idaw.</p>
+               </div>
+               <div type="part">
+                  <head>Keingyeu digaſſeð.</head>
+                  <p>Cas, val y dywetpwyd vchod.</p>
+                  <p>Anundeb, yw ymwahanu or rhai a notteint ym<g ref="char:EOLhyphen"/>garu.</p>
+                  <p>Kynhen, yw ſarhaed ar eireu megys ymchwyrny.</p>
+                  <p>Ymwychyaw. yw ymſarhau drwy ar eireu rhod<g ref="char:EOLhyphen"/>digyon.</p>
+                  <p>Auoðef, yw anwaharð tervyſcus wylhtineb meðl heb y dovi.</p>
+                  <p>Ymſerthu. yw ymdorri drwy ðeiſyuyd gyffro me<g ref="char:EOLhyphen"/>ðwl mewn geireu ſerthyon.</p>
+                  <p>Mawrðrygeð. yw dichelhus yſtriw y golhedu a<g ref="char:EOLhyphen"/>ralh.</p>
+                  <p>Dryc ewylhus. yw rhybuchaw drwg y a<g ref="char:EOLhyphen"/>ralh, kynn nys galher ar weithred.</p>
+                  <p>Kyndareð. yw colhi ſynwyr o dra lhid.</p>
+                  <p>Tervyſc. lhithredic gnawdoliaeth a ðel o vrenuo<g ref="char:EOLhyphen"/>lyath medwl.</p>
+                  <p>Dryc anian, yw arðangos ar wyneb chwerwder meðwl.</p>
+                  <p>
+                     <pb facs="tcp:181011:16"/>Lhovruðiaeth. a wnair drwy weithred, megys pan laðo ðyn aralh. yn weithredawl.</p>
+               </div>
+               <div type="part">
+                  <head>Keingieu lheſgeð. ix.</head>
+                  <p>Ergryn, yw ovynhau dechreu gwneythur da.</p>
+                  <p>Mevyt. yw blinder wrth orffe<g ref="char:cmbAbbrStroke">̄</g>nu da dechreuedig.</p>
+                  <p>Lheturyt, yw ovynhau dechreu peth mawr að<g ref="char:EOLhyphen"/>wyn.</p>
+                  <p>Gwelhyc, yw gwalh am wneythur y peth rhwymedic.</p>
+                  <p>Ambruðder, yw na racweler am y pethen a ðe<g ref="char:EOLhyphen"/>lont rac lhaw.</p>
+                  <p>Angkalhder, yw gochel rhyw bechod, yny ſyrthi<g ref="char:EOLhyphen"/>er yn aralh.</p>
+                  <p>Trymlvowrwyð. lheſgu gorffennu y peth rhwy<g ref="char:EOLhyphen"/>medic y ðiweðu.</p>
+                  <p>Anwybot, yw na roðo gwr y weithred y gwplau yr vn vath beth.</p>
+                  <p>Gorwagrwyð, yw parablu ſegurion eiryeu yn or<g ref="char:EOLhyphen"/>wag.</p>
+               </div>
+               <div type="part">
+                  <head>¶Keingyeu Aghawrdeb neu gebyðiaeth. xv.</head>
+                  <p>SYmoniaeth, yw prynu neu werthu peth yſpry<g ref="char:EOLhyphen"/>dawl.</p>
+                  <p>Vſur, yw kymryd mwy no dleyed, drwy werthu yr amſer.</p>
+                  <p>Lhedrad, yw kymryd da aralh heb wybod yr per<g ref="char:EOLhyphen"/>chennawg.</p>
+                  <p>Herwryaeth, yw kribðeilaw da aralh yn ðirgel.</p>
+                  <p>Anudon, yw kadarhau kelwyð drwy lw.</p>
+                  <p>Kelwyð, yw dywedyd ffalſteð, drwy ynni twyl<g ref="char:EOLhyphen"/>haw aralh.</p>
+                  <p>Treis, yw yſpeilo arall oy ðað yn anghyvarchus.</p>
+                  <p>Anghyvarch, yw kymhelh aralh y wneythur y peth nys dleye.</p>
+                  <p>
+                     <pb facs="tcp:181011:16"/>An orffwys. yw kyffroi aralh yn enwir heb achos</p>
+                  <p>Kamvarnu, yw barnu yn anghyfreithawl.</p>
+                  <p>Drudannyaeth, yw kynnal yn ormoð ygyt ar drwg.</p>
+                  <p>Brad, yw ſomi aralh yn dwylhodrus drwy wenieth.</p>
+                  <p>Twylh, dirgeledic vawrdynged drwy wenieyth y ſommi aralh.</p>
+                  <p>Falſteð, Kuðiaw drucvycheð drwy ymðangos ſanteiðrwyd.</p>
+                  <p>Ymolhwng, ymroði y gynullyaw da, heb ðarbot pa weð y caffer.</p>
+                  <p>Kamweð, yw gyrru ar aralh veieu y wypo na bont arnaw.</p>
+               </div>
+               <div type="part">
+                  <head>Keingyeu glythyneb. xii.</head>
+                  <p>Rhythni, yw kymryd gormoð vwyd.</p>
+                  <p>Meðdawt, yw kymryd gormod o diodyð.</p>
+                  <p>Folhaelder, yw treulo yn anghymedrol, lhe ny bo rhaid.</p>
+                  <p>Anymgynnal, yw rhacvlaenu tervyn goſſodedic y gymryt bwyd.</p>
+                  <p>Angkymedrolder, Trachwennychu gormoð o v<g ref="char:EOLhyphen"/>wyd neu ðiod.</p>
+                  <p>Angkywilyð, dywedud croeſſau eirieu angkrevy<g ref="char:EOLhyphen"/>ðus.</p>
+                  <p>Gorwac ym adrawð, yw dywedyd geireu drwy orwagrwyð ſeguryd.</p>
+                  <p>Aniweirdeb glythni yw arðangos trachwant me<g ref="char:EOLhyphen"/>ðwl o vewn glythineb.</p>
+                  <p>Anaðvwyndra, yw keiſio gormoð anrhegion o vwyt blyſſic.</p>
+                  <p>Anhynawſter, yw arver o dra gormoð o wiſcoeð werthvawruſſyon.</p>
+                  <p>Tordynn yw, tragorthrymder y gallonn gan or<g ref="char:EOLhyphen"/>moð
+<pb facs="tcp:181011:17"/>
+deſtluſrwyð.</p>
+                  <p>Ehwyt, yd yw kymryt gormoð o vwyd neu ðiod yn y orffo, y adver drachefyn, a hynny drwy chwy<g ref="char:EOLhyphen"/>ðu.</p>
+               </div>
+               <div type="part">
+                  <head>Keingyeu Aniweirdeb. vii.</head>
+                  <p>¶Fyrnigrwyð yw pob kyt gnawtawl ymaes o wely priawt.</p>
+                  <p>Godmeb, yw kydiaw o wr priawt a gwreic a<g ref="char:EOLhyphen"/>ralh, neu wrthwyneb y hynny.</p>
+                  <p>Tralhoſgrach, pechu wrth gar neu gares, neu gy<g ref="char:EOLhyphen"/>vathrachðyn.</p>
+                  <p>Anghewilyd, yw arðangos aniweirdeb meðwl ar arwyðon o dieythyr.</p>
+                  <p>Pechawd yn erbyn anian, gelhwng dynyawl had yn am gen le nac y vo tervynedic y hynny.</p>
+                  <p>Drycchwant, meðwl ar y wahardeð c vedal<g ref="char:EOLhyphen"/>twyd eidunet.</p>
+                  <p>Pechawd, lhwdyngar, yw pechu wrth anſynhw<g ref="char:EOLhyphen"/>yron aniveileyd.</p>
+               </div>
+            </div>
+            <div type="list_of_virtues">
+               <list>
+                  <head>¶Saith rinweð yr eglwys.</head>
+                  <item>Bedyð.</item>
+                  <item>Bedyð Eſcob.</item>
+                  <item>Kymmyn.</item>
+                  <item>Penyd.</item>
+                  <item>Angennu neu olew.</item>
+                  <item>Vrðeu.</item>
+                  <item>Priodas.</item>
+               </list>
+            </div>
+            <div type="list_of_deeds">
+               <list>
+                  <head>¶Saith wethred y drigareð.</head>
+                  <item>Rhoði bwyd y newynawg.</item>
+                  <item>Roi diawd y ſuchedig.</item>
+                  <item>Roilletry y belhennic.</item>
+                  <item>Rhoi dilhad y noeth.</item>
+                  <item>Govwy claf.</item>
+                  <item>Ryðhau carcharawr.</item>
+                  <item>Claðu y marw.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:181011:17"/>
+            <p>Beieu y diſkynnoð o walh y pryntiwr wrth daro, ac e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gwybod o honad y ðalen, yr wy<g ref="char:EOLhyphen"/>neb ar lain y mae yr beieu yndynt, mi a ðode<g ref="char:EOLhyphen"/>is Rhif y rheyni yn gyntaf ar geireu val y dylyon vod yn iſſa, ar gair neſſaf yn ol gyd ar gair oeð veiys.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="4">y ðalen, yr wyneb, y lain, y geireu at ymadroðion yn iawn</cell>
+                  </row>
+                  <row>
+                     <cell>ii</cell>
+                     <cell>i</cell>
+                     <cell>ðiwethaf</cell>
+                     <cell>vod yn ða.</cell>
+                  </row>
+                  <row>
+                     <cell>iiii</cell>
+                     <cell>i</cell>
+                     <cell>xiiii</cell>
+                     <cell>uchod yw gylið</cell>
+                  </row>
+                  <row>
+                     <cell>iiii</cell>
+                     <cell>i</cell>
+                     <cell>xxiii</cell>
+                     <cell>gynt gan athrawon</cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>ii</cell>
+                     <cell>i</cell>
+                     <cell>xxviii o ðyðieu.</cell>
+                  </row>
+                  <row>
+                     <cell>vi</cell>
+                     <cell>i</cell>
+                     <cell>i</cell>
+                     <cell>xxxi o ðyðieu.</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>i</cell>
+                     <cell>xvii</cell>
+                     <cell>G. lambert.</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>ii</cell>
+                     <cell>i</cell>
+                     <cell>xxx o ðyðieu.</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>ii</cell>
+                     <cell>i</cell>
+                     <cell>xxxi o dyðieu</cell>
+                  </row>
+                  <row>
+                     <cell>xiii</cell>
+                     <cell>ii.</cell>
+                     <cell cols="2">rhwug. xxvi. ar, xxvii. lam, dod: Na wna ledrad</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>i</cell>
+                     <cell>xix</cell>
+                     <cell>ymſerthu ar eireu.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">o <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pð. d. yn lhe yr. ð. o eiſeu lhythyteu or vath hynny y vy.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
